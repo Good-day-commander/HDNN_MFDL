@@ -27,6 +27,8 @@ We utilized Lattice boltzman method to perform hemodynamics simulation. Compared
 1. Model point cloud: spatial coordinates (x, y, z) for the outermost points of the vessel
 2. Query point cloud: the remaining points inside the vessel, which includes spatial coordinates (x, y, z) and its corresponding hemodynamics (pressure, Ux, Uy, Uz)
 
+> Li, Gaoyang, et al. "Prediction of 3D Cardiovascular hemodynamics before and after coronary artery bypass surgery via deep learning." Communications biology 4.1 (2021): 1-12.
+
 ## Quantitative Performance
 ![image](https://user-images.githubusercontent.com/56405223/175470712-2a7e1068-0306-4b00-a459-beac82e23791.png)
 ![image](https://user-images.githubusercontent.com/56405223/175470739-589e0c95-659e-49e0-b67e-4c92d170c4a2.png)
