@@ -12,7 +12,7 @@ Final project submission for MACHINE LEARNING AND PROGRAMMING (MEU5053.01-00) (P
   - https://drive.google.com/file/d/1-8TWSfcniGsfHAYrhqLqP9phthq_viqO/view?usp=sharing
   - Please download the .pkl file through the link, and place it at '/pkl'
 
-* Execute the code after executing the PointNet_SyntheticVessel3D_V2.ipynb file
+* Execute the code PointNet_SyntheticVessel3D_V2.ipynb
 
 ## Problem Statement
 CAD(Coronary artery disease) is one of the most dangerous diseases for humans. Therefore, it is important to diagnose accurately to avoid severe situation. For diagnosing this disease, an invasive diagnostic process or CFD(computational fluid dynamics) simulation is used to predict the disease. 
