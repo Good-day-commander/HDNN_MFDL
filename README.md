@@ -8,6 +8,10 @@ Final project submission for MACHINE LEARNING AND PROGRAMMING (MEU5053.01-00) (P
   - pip install pynrrd
   - pip install seg_metrics
 
+* Due to data size and security reasons, the file was not uploaded to Github, and the upload was replaced with a Google Drive link
+  - https://drive.google.com/file/d/1-8TWSfcniGsfHAYrhqLqP9phthq_viqO/view?usp=sharing
+  - Please download the .pkl file through the link, and place it at '/pkl'
+
 * Execute the code after executing the PointNet_SyntheticVessel3D_V2.ipynb file
 
 ## Problem Statement
